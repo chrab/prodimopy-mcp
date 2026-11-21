@@ -1,0 +1,2 @@
+# pixi lock file: treat as generated, do not try to merge line by line
+pixi.lock merge=binary linguist-language=YAML linguist-generated=true gitlab-generated
